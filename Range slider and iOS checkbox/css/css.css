@@ -1,0 +1,19 @@
+﻿.slider-container {
+    margin-top: 20px;
+}
+
+#letu-demo-slider .slider-selection {
+    background: blue;
+}
+
+#letu-demo-slider .slider-handle {
+    background: #0062BD;
+}
+
+#letu-demo-slider .slider-track {
+    box-shadow: none;
+}
+
+.checkbox-custom{
+    border-color: #dfdfdf !important
+}
