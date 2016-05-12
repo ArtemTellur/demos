@@ -1,6 +1,4 @@
-# demos
-
-Links: 
+# Links
   Bootstrap slider:
   http://seiyria.com/bootstrap-slider/
   
